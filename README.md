@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Shell Description
 
 This repository contains a simple shell implementation. The shell supports both interactive and non-interactive modes, offering a range of built-in commands for managing the environment and executing commands.
